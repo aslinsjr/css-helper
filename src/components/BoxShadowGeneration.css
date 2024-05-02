@@ -104,6 +104,10 @@ input[type="text"] {
 }
 
 @media screen and (max-width: 900px) {
+    .box-shadow-generator-container {
+        height: auto;
+    }
+
     .generation-container {
         flex-direction: column-reverse;
     }
