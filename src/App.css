@@ -1,0 +1,8 @@
+:root {
+    --primary-bg-color: aliceblue;
+}
+
+body {
+    background-color: var(--primary-bg-color);
+    user-select: none;
+}
